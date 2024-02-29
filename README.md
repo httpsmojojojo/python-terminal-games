@@ -22,10 +22,11 @@ To run these games, you need to have Python installed on your system. If you don
   cd python-terminal-games
 
 3. Run any of the games using Python:
-  python guessing_game.py
-  python quiz.py
-  python hangman.py
-  python tic_tac_toe.py
+
+  <br>python guessing_game.py<\br>
+  <br>python quiz.py<\br>
+  <br>python hangman.py<\br>
+  <br>python tic_tac_toe.py<\br>
 
 Follow the on-screen instructions to play the game of your choice.
 
